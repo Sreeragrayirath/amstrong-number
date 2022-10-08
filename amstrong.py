@@ -1,5 +1,5 @@
 # Python program to check if the number is an Armstrong number or not
-
+# just wring comment
 # take input from the user
 num int(input("Enter a number: "))
 
