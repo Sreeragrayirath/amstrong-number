@@ -1,7 +1,7 @@
 # Python program to check if the number is an Armstrong number or not
-# just wring comment
+# just corrected = sign which was missing in line no. 4 
 # take input from the user
-num int(input("Enter a number: "))
+num = int(input("Enter a number: "))
 
 # initialize sum
 sum = 0
